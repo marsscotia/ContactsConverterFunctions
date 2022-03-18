@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsConverterFunctions", "ContactsConverterFunctions\ContactsConverterFunctions.csproj", "{73F72DD2-6C24-460B-AB00-A22BC4AAA1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F72DD2-6C24-460B-AB00-A22BC4AAA1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F72DD2-6C24-460B-AB00-A22BC4AAA1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F72DD2-6C24-460B-AB00-A22BC4AAA1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F72DD2-6C24-460B-AB00-A22BC4AAA1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D26797E-037B-4783-AE2C-7F90DAA70D37}
+	EndGlobalSection
+EndGlobal
